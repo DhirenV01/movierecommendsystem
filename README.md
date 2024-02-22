@@ -10,7 +10,7 @@ Movie Buddy offers a seamless experience for movie enthusiasts and casual viewer
 
 Experience Movie Buddy in action through our hosted demo, where you can explore its features and functionalities:
 
-1. [Live Demo of Movie Buddy](https://movie-buddy-demo.com/)
+1. [Live Demo of Movie Buddy](https://movie-recommendation-8g56.onrender.com/)
 
 ## Getting Started
 
